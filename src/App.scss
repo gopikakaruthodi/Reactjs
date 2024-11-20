@@ -1,0 +1,19 @@
+div{
+  width: 100%;
+  height: 98vh;
+  background-color: lavender;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  button{
+    padding: 11px 25px ;
+    margin: 10px;
+    border: none;
+    border-radius: 7px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+}
